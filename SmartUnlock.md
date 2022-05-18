@@ -10,7 +10,7 @@ SmartUnlock不会获取您的任何个人信息。
 
 ### SmartUnlock反馈：
 
-如果有任何问题，可以通过“关于SmartUnlock”中提供的方式反馈给开发人员。
+如果有任何问题，可以通过 ```wangtong_vip@163.com``` 反馈给开发人员。
 
 ### SmartUnlock效果
 <img width="1440" alt="smartunlock1" src="https://user-images.githubusercontent.com/8910748/168937092-31ffcd8b-f740-46d3-95fe-595e51b5e234.png">
