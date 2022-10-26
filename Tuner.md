@@ -12,5 +12,7 @@
 如果有任何问题，可以通过 ```wangtong_vip@163.com``` 反馈给开发人员。
 
 ### 调音阁效果
-![IMG_3585](https://user-images.githubusercontent.com/8910748/197961088-cd063e07-80c8-4802-afc5-12744a3f23cc.PNG)
-![IMG_3586](https://user-images.githubusercontent.com/8910748/197961213-98d9f3b3-0419-44ab-a26c-8cfde9d218df.PNG)
+
+![IMG_3618](https://user-images.githubusercontent.com/8910748/197961587-c45ec679-4ddf-4655-8402-4a3da656e7f0.PNG)
+![IMG_3619](https://user-images.githubusercontent.com/8910748/197961613-80531a55-ba3c-4557-9fb4-ff354e72f544.PNG)
+![IMG_3620](https://user-images.githubusercontent.com/8910748/197961627-11766471-cf57-492d-a95e-7b6c7fde568c.PNG)
