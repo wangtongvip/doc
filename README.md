@@ -7,6 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 <title>王通-个人简历</title>
 
+<audio controls>
+  <source src="[your-audio-file.mp3](https://gh-proxy.com/https://github.com/wangtongvip/doc/blob/main/demo.mp3)" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 <style type="text/css">
 body {
