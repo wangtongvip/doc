@@ -7,11 +7,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 <title>王通-个人简历</title>
 
-<audio controls>
-  <source src="https://gh-proxy.com/https://github.com/wangtongvip/doc/blob/main/demo.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 <style type="text/css">
 body {
   font-family: Helvetica, arial, sans-serif;
@@ -502,7 +497,10 @@ kbd {
 
 <h6 id="toc_21">Copyright © wangtong_vip@163.com All Rights Reserved</h6>
 
-
+<audio controls>
+  <source src="https://gh-proxy.com/https://github.com/wangtongvip/doc/blob/main/demo.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 
 </body>
