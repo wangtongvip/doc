@@ -7,7 +7,6 @@
 <body>
 <audio controls>
   <source src="https://gh-proxy.com/https://github.com/wangtongvip/doc/blob/main/demo.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
 </audio>
 </body>
 </html>
